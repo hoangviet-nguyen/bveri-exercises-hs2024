@@ -65,7 +65,8 @@ dev = [
     "rich",
     "ruff",
     "isort",
-    "nbgrader"
+    "nbgrader",
+    "nbclean"
 ]
 
 # extra dependencies which are not central
